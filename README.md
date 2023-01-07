@@ -55,7 +55,7 @@ The above image depicts the following
 
 ## Result :
 
-![image](https://user-images.githubusercontent.com/68383273/209479506-fe2fd347-de41-4170-a62e-1edef2c882f3.png)
+![image](https://user-images.githubusercontent.com/68383273/211143706-0d2c6951-d70f-4d6e-8f72-dd21ebbb459e.png)
 
 
 ## References
