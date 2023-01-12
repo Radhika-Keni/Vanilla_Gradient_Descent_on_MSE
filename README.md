@@ -46,16 +46,11 @@ The above image depicts the following
 - The Green line in the above diagram indicates the line that was arrived at by the gradient descent algorithm after 1 iteration
 
 ## Final Output :
+![image](https://user-images.githubusercontent.com/68383273/212136285-a9c95efb-e85a-4565-beb0-0a6ee064997a.png)
 
-![image](https://user-images.githubusercontent.com/68383273/209479298-49cca43b-b162-4bea-9abb-b2b7c4052c17.png)
-- Red line indicates the random line which we started at 
-- The green lines indicate the line arrived at my the gradient descent algorithm at every iteration
-- Note how the green line keeps moving towards the target line i.e blue line 
-- Finally we see how the green line has almost overlapped with the target line demostarting how the gradient descent algorithm arrived at the best fit/target line through multiple iterations.
 
 ## Result :
-
-![image](https://user-images.githubusercontent.com/68383273/211143706-0d2c6951-d70f-4d6e-8f72-dd21ebbb459e.png)
+![image](https://user-images.githubusercontent.com/68383273/212136056-6a01629c-2fbd-4951-808d-3228ea2f5beb.png)
 
 
 ## References
